@@ -1,0 +1,41 @@
+# Softamestari 2026 — esikarsinta
+
+## Suomeksi
+
+Tämä repo sisältää Softamestari 2026 -esikarsinnan ohjeet.
+
+Esikarsinta on torstaina 8.10.2026 klo 17.00–20.00 Suomen aikaa (Europe/Helsinki). Osallistuminen on maksutonta ja tapahtuu etänä omalta koneeltasi.
+
+Kloonaa tämä repo etukäteen. Ennen klo 17.00 tässä tiedostossa ei ole tehtävänantoa eikä palautusohjetta.
+
+Tasan klo 17.00 aja:
+
+    git pull
+
+Silloin tämä teksti vaihtuu esikarsinnan ohjeisiin. Aloita sovelluksen tekeminen vasta sen jälkeen, puhtaalta pöydältä. Valmista sovellusta tai sen pohjaa ei saa rakentaa etukäteen. Yleiset kirjastot, frameworkit ja tekoälytyökalut ovat sallittuja. Omien työkalujen kuluista vastaat itse.
+
+Sarjoja on kaksi: junnut (alle 22-vuotiaat) ja yleinen sarja.
+
+Kisassa tuotettu koodi luovutetaan vapaaseen yleiseen käyttöön (public domain), kuten softamestari.fi kertoo.
+
+Ohjeet ovat myös englanniksi alla.
+
+## In English
+
+This repository contains the instructions for the Softamestari 2026 qualifier.
+
+The qualifier is on Thursday 8 October 2026, 17:00–20:00 Finnish time (Europe/Helsinki). Entry is free and remote. You compete from your own computer.
+
+Clone this repository in advance. Before 17:00 this file does not contain the assignment or the submission instructions.
+
+At 17:00 sharp, run:
+
+    git pull
+
+That replaces this text with the qualifier instructions. Start building only after that, from a clean slate. Do not prepare the application, or a base for it, beforehand. Ordinary libraries, frameworks, and AI tools are allowed. You cover the cost of your own tools.
+
+There are two categories: juniors (under 22) and the open category.
+
+Code produced in the contest is released into the public domain, as stated on softamestari.fi.
+
+The instructions are also in Finnish above.
