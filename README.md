@@ -1,31 +1,41 @@
-# HARJOITUS / REHEARSAL — tämä ei ole kisatehtävä
+# Softamestari 2026 — esikarsinta
 
 ## Suomeksi
 
-Tämä on kenraaliharjoitus. Tässä ei ole oikeaa tehtävänantoa. Älä rakenna kisatyötä tämän tekstin perusteella.
+Tämä repo sisältää Softamestari 2026 -esikarsinnan ohjeet.
 
-Harjoituslataus tallennetaan erillään esikarsinnasta ja finaalista. Zippaa mikä tahansa kansio ja lähetä se harjoituslomakkeella. Zipin mukana pitää olla README, joka kertoo miten työ suoritetaan. Yksi onnistunut zip riittää. `node_modules` ja muu ylimääräinen saa olla mukana. Yksi zip saa olla enintään 2 Gt.
+Esikarsinta on torstaina 8.10.2026 klo 17.00–20.00 Suomen aikaa (Europe/Helsinki). Osallistuminen on maksutonta ja tapahtuu etänä omalta koneeltasi.
 
-- Valitse sarja: Junnusarja (Finaalipäivänä alle 22-vuotiaat koodilupaukset) tai Yleinen sarja (Avoin kaikille)
-- Nimi
-- Sähköpostiosoite
-- Hyväksyn kilpailun säännöt ja tietosuojaselosteen
+Kloonaa tämä repo etukäteen. Ennen klo 17.00 tässä tiedostossa ei ole tehtävänantoa eikä palautusohjetta.
 
-Palautusosoite:
+Tasan klo 17.00 aja:
 
-https://softamestari.curious.fi/esikarsinta/bkXIW_65qEkePSCE2uopHQua
+    git pull
+
+Silloin tämä teksti vaihtuu esikarsinnan ohjeisiin. Aloita sovelluksen tekeminen vasta sen jälkeen, puhtaalta pöydältä. Valmista sovellusta tai sen pohjaa ei saa rakentaa etukäteen. Yleiset kirjastot, frameworkit ja tekoälytyökalut ovat sallittuja. Omien työkalujen kuluista vastaat itse.
+
+Sarjoja on kaksi: junnut (alle 22-vuotiaat) ja yleinen sarja.
+
+Kisassa tuotettu koodi luovutetaan vapaaseen yleiseen käyttöön (public domain), kuten softamestari.fi kertoo.
+
+Ohjeet ovat myös englanniksi alla.
 
 ## In English
 
-This is a rehearsal. This is not the real assignment. Do not build a contest entry from this text.
+This repository contains the instructions for the Softamestari 2026 qualifier.
 
-Rehearsal uploads are stored apart from the qualifier and the final. Zip any folder and send it with the rehearsal form. The zip must include a README that explains how to run the work. One successful zip is enough. `node_modules` and other extra files may be included. One zip may be at most 2 GB.
+The qualifier is on Thursday 8 October 2026, 17:00–20:00 Finnish time (Europe/Helsinki). Entry is free and remote. You compete from your own computer.
 
-- Category: Junior category (Under 22 on the day of the final) or Open category (Open to everyone)
-- Name
-- Email address
-- I accept the contest rules and the privacy notice
+Clone this repository in advance. Before 17:00 this file does not contain the assignment or the submission instructions.
 
-Upload address:
+At 17:00 sharp, run:
 
-https://softamestari.curious.fi/esikarsinta/bkXIW_65qEkePSCE2uopHQua
+    git pull
+
+That replaces this text with the qualifier instructions. Start building only after that, from a clean slate. Do not prepare the application, or a base for it, beforehand. Ordinary libraries, frameworks, and AI tools are allowed. You cover the cost of your own tools.
+
+There are two categories: juniors (under 22) and the open category.
+
+Code produced in the contest is released into the public domain, as stated on softamestari.fi.
+
+The instructions are also in Finnish above.
